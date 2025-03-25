@@ -13,6 +13,19 @@ Sou motivada por projetos que unem educação e tecnologia, sempre buscando part
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
+    <a href="https://github.com/FindNiMaria">
+        <img
+            alt="https://github.com/FindNiMaria"
+            title="Meu Github"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+            />
+    </a>
+    <a href="https://www.behance.net/nicolecandido">
+            <img
+                alt="https://www.behance.net/nicolecandido"
+                title="Meu Behance"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
+    </a>       
 </p>
 
 ---
