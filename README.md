@@ -10,7 +10,7 @@ Sou motivada por projetos que unem educação e tecnologia, sempre buscando part
         <img 
             alt="https://www.linkedin.com/in/nicole-maria-s-292236b0/" 
             title="Meu Linkedin" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+            src="https://custom-icon-badges.demolab.com/?logo=linkedinnicole)"
         />
     </a>
     <a href="https://github.com/FindNiMaria">
@@ -25,7 +25,14 @@ Sou motivada por projetos que unem educação e tecnologia, sempre buscando part
                 alt="https://www.behance.net/nicolecandido"
                 title="Meu Behance"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
-    </a>       
+    </a>
+<a href="https://www.behance.net/nicolecandido">
+            <img
+                alt="https://www.behance.net/nicolecandido"
+                title="Meu Behance"
+                src="[https://custom-icon-badges.demolab.com/badge/-nicolecandido10@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
+    </a>
+    
 </p>
 
 ---
